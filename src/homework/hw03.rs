@@ -1,5 +1,5 @@
-const WIDTH: usize = 10;  // Ширина конверта
-const HEIGHT: usize = 5;  // Висота конверта
+const WIDTH: usize = 10;  // Ширина конверта 
+const HEIGHT: usize = 6;  // Висота конверта
 
 fn main() {
     let mut envelope = String::new();
